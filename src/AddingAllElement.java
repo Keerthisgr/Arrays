@@ -1,3 +1,4 @@
+//sum of all the elements
 public class AddingAllElement {
     public static void main(String[] args) {
         int arr[] = {10,40,67,23,16};
